@@ -1,2 +1,2 @@
 # GiftzWebsite
-Wordpress ecommerce website
+Wordpress ecommerce website using elementor
